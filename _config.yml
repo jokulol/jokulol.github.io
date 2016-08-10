@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jokulol.github.io
+title: jokulol
+paginate: 5
