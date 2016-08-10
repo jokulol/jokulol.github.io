@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: hasduhasudh
 layout: post
 permalink: lol
